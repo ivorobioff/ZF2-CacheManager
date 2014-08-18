@@ -1,0 +1,19 @@
+{
+    "name": "developer/cache-manager",
+    "authors": [
+        {
+            "name": "Igor Vorobiov",
+            "email": "igor.vorobioff@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Developer\\CacheManager\\": "."
+        }
+    }
+}
